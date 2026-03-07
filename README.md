@@ -13,3 +13,13 @@
 一般情况下，在设置中切换下载源即可解决问题<br>
 当切换两种下载源都无法下载时，可访问旧版 https://mscdownload.pages.dev/old 下载音乐（不支持极高以上音质 不支持完整下载VIP歌曲）<br>
 通常接口请求异常不会持续很长时间，您也可以等待一个小时左右再尝试下载。<br>
+
+## 更多镜像站
+
+### Tencent EdgeOne
+
+https://mscdownload.eo.legspcpd.de5.net/<br><br>
+
+### Vercel
+
+https://mscdownload.vercel.legspcpd.de5.net/<br><br>
